@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Netflix-Ani",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cd2cbac2-07e7-425d-a635-c4d7978c879f",
+		"tenantId": "7afb9e22-9308-4186-8e29-ea231ff3baf7"
+	}
+}
