@@ -153,7 +153,7 @@
 				"typeProperties": {
 					"variableName": "githubmetadata",
 					"value": {
-						"value": "@activity('Github_Metadata').output",
+						"value": "@activity('Github_Metadata').output.Response",
 						"type": "Expression"
 					}
 				}
@@ -164,20 +164,20 @@
 				"type": "array",
 				"defaultValue": [
 					{
-						"folder_name": "nextflix_cast",
-						"file_name": "nextflix_cast.csv"
+						"folder_name": "netflix_cast",
+						"file_name": "netflix_cast.csv"
 					},
 					{
-						"folder_name": "nextflix_category",
-						"file_name": "nextflix_category.csv"
+						"folder_name": "netflix_category",
+						"file_name": "netflix_category.csv"
 					},
 					{
-						"folder_name": "nextflix_countries",
-						"file_name": "nextflix_countries.csv"
+						"folder_name": "netflix_countries",
+						"file_name": "netflix_countries.csv"
 					},
 					{
-						"folder_name": "nextflix_directors",
-						"file_name": "nextflix_directors.csv"
+						"folder_name": "netflix_directors",
+						"file_name": "netflix_directors.csv"
 					}
 				]
 			}
